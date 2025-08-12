@@ -1,2 +1,13 @@
-# TO-DO-app
-A simple Python terminal-based To-Do List app to manage tasks easily. View, add, remove, or mark tasks complete with ✅. All tasks are saved in todo.txt for future use. Lightweight, offline, beginner-friendly, and great for learning Python file handling while staying organized.
+# Python To-Do App
+
+A simple command-line To-Do application in Python.
+
+## Features
+- View tasks
+- Add tasks
+- Remove tasks
+- Mark tasks complete (✅)
+
+## How to Run
+```bash
+python todo.py
